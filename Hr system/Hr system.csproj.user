@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Add task.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AllEmpolyee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AllTask.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomeControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Remove.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="removetask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Salary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="settingcontrol.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

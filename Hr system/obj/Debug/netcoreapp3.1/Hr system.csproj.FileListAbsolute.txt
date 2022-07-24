@@ -1,0 +1,37 @@
+D:\Hr system\Hr system\bin\Debug\netcoreapp3.1\Hr system.exe
+D:\Hr system\Hr system\bin\Debug\netcoreapp3.1\Hr system.deps.json
+D:\Hr system\Hr system\bin\Debug\netcoreapp3.1\Hr system.runtimeconfig.json
+D:\Hr system\Hr system\bin\Debug\netcoreapp3.1\Hr system.runtimeconfig.dev.json
+D:\Hr system\Hr system\bin\Debug\netcoreapp3.1\Hr system.dll
+D:\Hr system\Hr system\bin\Debug\netcoreapp3.1\Hr system.pdb
+D:\Hr system\Hr system\obj\Debug\netcoreapp3.1\Hr system.csproj.AssemblyReference.cache
+D:\Hr system\Hr system\obj\Debug\netcoreapp3.1\Hr_system.Form1.resources
+D:\Hr system\Hr system\obj\Debug\netcoreapp3.1\Hr_system.Properties.Resources.resources
+D:\Hr system\Hr system\obj\Debug\netcoreapp3.1\Hr system.csproj.GenerateResource.cache
+D:\Hr system\Hr system\obj\Debug\netcoreapp3.1\Hr system.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hr system\Hr system\obj\Debug\netcoreapp3.1\Hr system.AssemblyInfoInputs.cache
+D:\Hr system\Hr system\obj\Debug\netcoreapp3.1\Hr system.AssemblyInfo.cs
+D:\Hr system\Hr system\obj\Debug\netcoreapp3.1\Hr system.csproj.CoreCompileInputs.cache
+D:\Hr system\Hr system\obj\Debug\netcoreapp3.1\Hr system.dll
+D:\Hr system\Hr system\obj\Debug\netcoreapp3.1\Hr system.pdb
+D:\Hr system\Hr system\obj\Debug\netcoreapp3.1\Hr system.genruntimeconfig.cache
+D:\Hr system\Hr system\obj\Debug\netcoreapp3.1\Hr_system.Form2.resources
+D:\Hr system\Hr system\obj\Debug\netcoreapp3.1\Hr_system.HomeControl.resources
+D:\Hr system\Hr system\obj\Debug\netcoreapp3.1\Hr_system.Add.resources
+D:\Hr system\Hr system\obj\Debug\netcoreapp3.1\Hr_system.Remove.resources
+D:\Hr system\Hr system\obj\Debug\netcoreapp3.1\Hr_system.Add_task.resources
+D:\Hr system\Hr system\obj\Debug\netcoreapp3.1\Hr_system.Salary.resources
+D:\Hr system\Hr system\obj\Debug\netcoreapp3.1\Hr_system.AllEmpolyee.resources
+D:\Hr system\Hr system\obj\Debug\netcoreapp3.1\Hr_system.AllTask.resources
+D:\Hr system\Hr system\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Hr system\Hr system\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Hr system\Hr system\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Hr system\Hr system\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Hr system\Hr system\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Hr system\Hr system\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Hr system\Hr system\obj\Debug\netcoreapp3.1\Hr system.csproj.CopyComplete
+D:\Hr system\Hr system\obj\Debug\netcoreapp3.1\Hr_system.settingcontrol.resources
+D:\Hr system\Hr system\obj\Debug\netcoreapp3.1\Hr_system.removetask.resources
+C:\Users\lenovo\OneDrive\Desktop\كركبة\HR-System\Hr system\obj\Debug\netcoreapp3.1\Hr system.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Desktop\كركبة\HR-System\Hr system\obj\Debug\netcoreapp3.1\Hr system.dll
+C:\Users\lenovo\OneDrive\Desktop\كركبة\HR-System\Hr system\obj\Debug\netcoreapp3.1\Hr system.pdb
